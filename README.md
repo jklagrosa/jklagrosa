@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jklagrosa&label=Profile%20views&color=0e75b6&style=flat" alt="jklagrosa" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jk-lagrosa.vercel.app/](https://jk-lagrosa.vercel.app/)
+- 👨‍💻 All of my projects are available at [jk-lagrosa.vercel.app/](https://jk-lagrosa.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Next.js**
 
