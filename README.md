@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="410" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47okvfvdjmhlvw2d8pm1a3u7khepz0fjdymhpm7rqd&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jklagrosa&label=Profile%20views&color=0e75b6&style=flat" alt="jklagrosa" /> </p>
 
-- 👨‍💻 All of my projects are available at [jklagrosa/](https://jk-lagrosa.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [jklagrosa.com](https://jk-lagrosa.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Next.js**
 
