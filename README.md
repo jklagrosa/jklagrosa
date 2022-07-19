@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [jklagrosa.com](https://jk-lagrosa.vercel.app/)
+- 👨‍💻 All of my projects are available at [jk-lagrosa.vercel.app](https://jk-lagrosa.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Next.js**
 
