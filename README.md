@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm JK Lagrosa</h1>
 <h3 align="left">I designed and developed websites and web applications with a <br/> focus on usability, accessibility, and performance.</h3>
 
-<img align="right" alt="Coding" width="410" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47okvfvdjmhlvw2d8pm1a3u7khepz0fjdymhpm7rqd&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47okvfvdjmhlvw2d8pm1a3u7khepz0fjdymhpm7rqd&rid=giphy.gif&ct=g">
 
 
 - 👨‍💻 All of my projects are available at [jk-lagrosa.vercel.app](https://jk-lagrosa.vercel.app/)
